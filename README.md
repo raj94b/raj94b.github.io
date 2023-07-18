@@ -1,7 +1,7 @@
   <body>
     <div class="container">
       <div class="image", width=25%>
-        <img src="321678B2-723C-4F32-A93E-58E566760543.jpeg", alt= "Rajiv Boscolo Agpostini", widht="50%", float: left>
+        <img src="321678B2-723C-4F32-A93E-58E566760543.jpeg", alt= "Rajiv Boscolo Agpostini", width="25%", float: left>
       </div>
       <div class="text">
         <h1>Rajiv Boscolo Agostini</h1>
