@@ -1,6 +1,4 @@
 <html>
-<head>
-</head>
 <body>
 
 <h2>Rajiv Boscolo Agostini</h2>
