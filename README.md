@@ -1,5 +1,5 @@
 <div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <img src="321678B2-723C-4F32-A93E-58E566760543.jpeg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Rajiv Boscolo Agostini</b></h4> 
     <p>PhD student</p> 
