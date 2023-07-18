@@ -21,7 +21,7 @@ img {
   <body>
     <div class="container">
       <div class="image">
-        <img src="32">
+        <img src="321678B2-723C-4F32-A93E-58E566760543.jpeg">
       </div>
       <div class="text">
         <h1>Paris is one of the most magnificient cities in France.</h1>
