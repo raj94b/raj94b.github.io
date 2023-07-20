@@ -10,8 +10,6 @@
   <div>I am a PhD student in Evolutionary Biology and Ecology. My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. I am interested in Population Genomics, Evolutionary Biology and Bioinformatics.<br></div>
   <div>3</div> 
 
-<p></p>
-
 <h2>Contact Information</h2>
 <a href="mailto:bscrjv@unife.it"><img src="images/Gmail_icon.png" alt="Mail" style="width:5%"></a>
 <a href="https://scholar.google.com/citations?user=Z1vQ4lEAAAAJ&hl=it"><img src="images/Google_Scholar_logo.png" alt="Google Scholar" style="width:5%"></a>
