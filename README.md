@@ -1,7 +1,7 @@
 <html>
 <body>
 <head>
-<link rel="stylesheet" href="mystyle.css">
+<link rel="stylesheet" href="css/mystyle.css">
 </head>
 <h3 align="center"><b>Rajiv Boscolo Agostini</b></h3>
 <p align="center"><i>PhD student in Evolutionary Biology and Ecology</i></p>
