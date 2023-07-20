@@ -6,7 +6,7 @@
 <h3 align="center"><b>Rajiv Boscolo Agostini</b></h3>
 <p align="center"><i>PhD student in Evolutionary Biology and Ecology</i></p>
 <p><img src="images/321678B2-723C-4F32-A93E-58E566760543.jpeg" alt="Photo" style="float:left;width:30%;">
-My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. I am interested in Population Genomics, Evolutionary Biology and Bioinformatics.<br></p>
+My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. Currently I am working on the reconstruction of ancient human evolutionary dynamics in Italy and on investigating the worldwide invasion of <i>H. halys</i>. My main topics of interest are: Population Genomics, Evolutionary Biology and Bioinformatics.<br></p>
 
 <h2>Contact Information</h2>
 <a href="mailto:bscrjv@unife.it"><img src="images/Gmail_icon.png" alt="Mail" style="background:transparent;width:10%"></a>
