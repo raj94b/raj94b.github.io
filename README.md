@@ -9,7 +9,7 @@
 I am a PhD student in Evolutionary Biology and Ecology. My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. I am interested in Population Genomics, Evolutionary Biology and Bioinformatics.</p>
 
 <p><h2>Contact Information</h2></p>
-<a href="mailto:bscrjv@unife.it"><img src="images/Gmail_icon.png" alt="Mail" style="width:5%"></a>
+<a href="mailto:bscrjv@unife.it"><img src="images/Gmail_icon.png" alt="Mail" style="background:transparent;width:5%"></a>
 <a href="https://scholar.google.com/citations?user=Z1vQ4lEAAAAJ&hl=it"><img src="images/Google_Scholar_logo.png" alt="Google Scholar" style="background:transparent;width:5%"></a>
 <a href="https://www.researchgate.net/profile/Rajiv-Boscolo-Agostini"><img src="images/ResearchGate_icon.png" alt="Research Gate" style="background:transparent;width:5%"></a>
 <a href="https://twitter.com/Rajiv94_"><img src="images/Logo_of_Twitter.png" alt="Twitter" style="background:transparent;width:5%"></a>
