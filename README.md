@@ -7,8 +7,8 @@
 <p align="center"><i>PhD student in Evolutionary Biology and Ecology</i></p>
 
 <p><img src="images/321678B2-723C-4F32-A93E-58E566760543.jpeg" alt="Photo" style="float:left;width:15%;">
-I am a PhD student in Evolutionary Biology and Ecology. My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. I am interested in Population Genomics, Evolutionary Biology and Bioinformatics. 
-<br></p>
+I am a PhD student in Evolutionary Biology and Ecology. My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. I am interested in Population Genomics, Evolutionary Biology and Bioinformatics.<br></p>
+
 <h2>Contact Information</h2>
 <a href="mailto:bscrjv@unife.it"><img src="images/Gmail_icon.png" alt="Mail" style="width:5%"></a>
 <a href="https://scholar.google.com/citations?user=Z1vQ4lEAAAAJ&hl=it"><img src="images/Google_Scholar_logo.png" alt="Google Scholar" style="width:5%"></a>
