@@ -1,6 +1,6 @@
 <html>
 <body>
-<p align="right"><img src="images/loigo.png" alt="Photo" style="width:10%"></p>
+
 <h3 align="center"><b>Rajiv Boscolo Agostini</b></h3>
 <p align="center"><i>PhD student in Evolutionary Biology and Ecology</i></p>
 
