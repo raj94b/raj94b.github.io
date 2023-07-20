@@ -5,7 +5,7 @@
 </head>
 <h3 align="center"><b>Rajiv Boscolo Agostini</b></h3>
 <p align="center"><i>PhD student in Evolutionary Biology and Ecology</i></p>
-<p><img src="images/321678B2-723C-4F32-A93E-58E566760543.jpeg" alt="Photo" style="width:15%;"></div>
+<p><img src="images/321678B2-723C-4F32-A93E-58E566760543.jpeg" alt="Photo" style="float:right;width:15%;">
 I am a PhD student in Evolutionary Biology and Ecology. My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. I am interested in Population Genomics, Evolutionary Biology and Bioinformatics.<br></p>
 
 <h2>Contact Information</h2>
