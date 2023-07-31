@@ -1,18 +1,2 @@
-<html>
-<body>
-<head>
-<link rel="stylesheet" href="css/mystyle.css">
-</head>
-<h3 align="center"><b>Rajiv Boscolo Agostini</b></h3>
-<p align="center"><i>PhD student in Evolutionary Biology and Ecology</i></p>
-<p><img src="images/321678B2-723C-4F32-A93E-58E566760543.jpeg" alt="Photo" style="float:left;width:30%;margin:10px 10px 10px 10px">
-My research focuses mainly on demographic modeling, reconstruction of evolutionary dynamics. Currently I am working on the reconstruction of ancient human evolutionary dynamics in Italy and on investigating the worldwide invasion of <i>H. halys</i>. My main topics of interest are: Population Genomics, Evolutionary Biology and Bioinformatics.<br></p>
 
-<h2>Contact Information</h2>
-<a href="mailto:bscrjv@unife.it"><img src="images/Gmail_icon.png" alt="Mail" style="background:transparent;width:10%"></a>
-<a href="https://scholar.google.com/citations?user=Z1vQ4lEAAAAJ&hl=it"><img src="images/Google_Scholar_logo.png" alt="Google Scholar" style="background:transparent;width:10%"></a>
-<a href="https://www.researchgate.net/profile/Rajiv-Boscolo-Agostini"><img src="images/ResearchGate_icon.png" alt="Research Gate" style="background:transparent;width:10%"></a>
-<a href="https://twitter.com/Rajiv94_"><img src="images/Logo_of_Twitter.png" alt="Twitter" style="background:transparent;width:10%"></a>
-</body>
-</html>
 
