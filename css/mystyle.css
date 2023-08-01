@@ -1,9 +1,10 @@
 body {
-  background-color: #5D6D7E;
+  background-color: #283747;
+  color: lightgrey;
   box-sizing: border-box;
   .section-heading {
   text-align:center;
-  color:#102C4E;
+  color:#D5F5E3;
   margin-top: 110px;
   margin-bottom:50px;
   font-size: 35px;
